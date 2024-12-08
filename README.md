@@ -1,1 +1,2 @@
-# NLP
+# Introduction to the Lab Project on English to Darija Text Translation
+This lab project is part of the Advanced Natural Language Processing course for the academic year 2024/2025. The objective is to explore and implement Recurrent Neural Network (RNN) models, focusing specifically on text translation between English and Moroccan Darija (a local Arabic dialect). Using a provided dataset available on Hugging Face, we aim to build and compare various LSTM-based models to achieve effective translation.
